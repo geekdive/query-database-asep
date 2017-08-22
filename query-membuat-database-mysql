@@ -1,0 +1,3 @@
+create database <nama-database>;
+
+example: create database sample-db;
